@@ -1,5 +1,5 @@
-#The Gods are Dead?
-Github repo
+# The Gods are Dead?
+
     _The gods are dead? Perhaps they are! Who knows?_
     Living at least in Lempriere undeleted,
     The wise, the fair, the awful, the jocose,
