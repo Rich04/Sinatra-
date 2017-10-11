@@ -1,6 +1,6 @@
 # The Gods are Dead?
 
-    _The_gods_are_dead_?_ Perhaps they are! Who knows?
+    __The gods are dead__?__ Perhaps they are! Who knows?
     Living at least in Lempriere undeleted,
     The wise, the fair, the awful, the jocose,
     Are one and all, I like to think, retreated
