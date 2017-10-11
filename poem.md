@@ -1,6 +1,6 @@
-# Sinatra-
+#The Gods are Dead?
 Github repo
-    The gods are dead? Perhaps they are! Who knows?
+    _The gods are dead? Perhaps they are! Who knows?_
     Living at least in Lempriere undeleted,
     The wise, the fair, the awful, the jocose,
     Are one and all, I like to think, retreated
@@ -18,4 +18,4 @@ Github repo
     Who will may hear the sorry words repeated:-
     'The Gods are Dead!'
 
-http://public-domain-poetry.com/william-ernest-henley/gods-are-dead-37266
+*http://public-domain-poetry.com/william-ernest-henley/gods-are-dead-37266*
